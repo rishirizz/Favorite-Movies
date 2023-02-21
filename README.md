@@ -1,16 +1,4 @@
-# favourites
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A simple flutter app which makes use of the Provider package to manage app state.
+Users can favorite any movies they like from a list of 50 movies. And they can remove the movies from the favourite list as and when required. 
+There are two pages in this app. The first page can be used to favourite or unfavorite a movie. 
+The second will show the list of favorite movies which the users can unfavorite anytime and it will update instantly throughout the app.
